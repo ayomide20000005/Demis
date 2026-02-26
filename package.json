@@ -1,0 +1,38 @@
+{
+  "name": "demis",
+  "displayName": "Demis",
+  "description": "The de facto development environment orchestrator",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "enabledApiProposals": [
+    "languageModelSystem"
+  ],
+  "categories": [
+    "AI",
+    "Other"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "demis.start",
+        "title": "Demis"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.109.0",
+    "@types/node": "22.x",
+    "typescript": "^5.9.3"
+  }
+}
