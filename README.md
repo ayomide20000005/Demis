@@ -16,7 +16,7 @@ TypeScript is the primary language used throughout the extension. The VS Code Ex
 donwload here......... https://github.com/ayomide20000005/Demis/releases
 
 Why It Matters
-Most onboarding processes involve a long document of manual steps. Demis replaces that with a conversation. You tell it what you do, it sets everything up and saves the result so the next person never has to go through the same process again. It is open source and built for developers who value consistency and speed.
+Most onboarding processes involve a long document of manual steps. Demis replaces that with a conversation. You tell it what you do, it sets everything up and saves the result so the next person never has to go through the same process again. 
 
 ![imported file](https://github.com/user-attachments/assets/996b393e-ea4c-4cc7-873c-c0ba65d70078)
 
