@@ -13,7 +13,7 @@ Demis is built as a VS Code extension using the VS Code Extension API. The chat 
 Tech Stack
 TypeScript is the primary language used throughout the extension. The VS Code Extension API handles all editor integration including commands, webview panels, file system access and extension installation. Node.js powers the backend logic including file reading, writing and package management operations. The Webview Panel uses standard HTML, CSS and JavaScript for the chat interface rendered inside VS Code. The AI layer handles natural language understanding of role descriptions and maps them to environment recommendations.
 
-donwload here......... https://github.com/ayomide20000005/Demis/releases
+donwload here........ https://github.com/ayomide20000005/Demis/releases
 
 Why It Matters
 Most onboarding processes involve a long document of manual steps. Demis replaces that with a conversation. You tell it what you do, it sets everything up and saves the result so the next person never has to go through the same process again. 
