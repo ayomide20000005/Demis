@@ -1,7 +1,7 @@
 AI-powered VS Code extension that suggests and sets up your entire development environment based on your role  and saves it as a shareable package so your whole team can replicate it instantly.
 
 Setting up a development environment from scratch is slow, inconsistent and frustrating. Every developer on a team ends up with slightly different tools, extensions and configurations. Demis solves this by using AI to understand your role — frontend developer, backend developer, data scientist, DevOps engineer and more — and automatically recommending the exact tools, VS Code extensions and packages you need.
-The key idea is that your entire environment gets saved into a structured file. Anyone on your team can take that file, run Demis, and get the exact same setup on their machine in minutes. No more "works on my machine" problems.
+The key idea is that your entire environment gets saved into a structured file. Anyone on your team can take that file, run Demis, and get the exact same setup on their machine in minutes. No more "works on my machine" problems..
 
 ![number 1](https://github.com/user-attachments/assets/57a76fe3-b7ce-41d8-8f60-306e5170191e)
 
